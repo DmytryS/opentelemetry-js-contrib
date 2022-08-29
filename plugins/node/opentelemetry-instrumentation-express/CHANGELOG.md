@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.31.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-express-v0.30.0...instrumentation-express-v0.31.0) (2022-08-29)
+
+
+### Features
+
+* **express:** add requestHook support ([#1091](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1091)) ([bcc048b](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/bcc048b4de1293b0d932ac69dc0b0c056aca13ee))
+* update experimental Otel deps to ^0.31.0 ([#1096](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1096)) ([4c8843b](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/4c8843be14896d1159a622c07eb3a049401ccba1))
+
 ## [0.30.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-express-v0.29.0...instrumentation-express-v0.30.0) (2022-06-08)
 
 

@@ -6,6 +6,12 @@
   * devDependencies
     * @opentelemetry/contrib-test-utils bumped from ^0.30.0 to ^0.31.0
 
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @opentelemetry/contrib-test-utils bumped from ^0.31.0 to ^0.32.0
+
 ## 1.0.0 (2022-05-14)
 
 
